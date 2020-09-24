@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "id8 podcast",
+  "shortName": "id8",
+  "description": "Welcome to the id8 podcast with Will and Jay",
   "themeColor": "#1d81d8",
   "backgroundColor": "#ffffff",
   "lang": "en"
